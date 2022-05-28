@@ -12,7 +12,7 @@ Python implementation of the method of potentials. As the first test data, the d
 
 The formulation of the transport problem is described here. Some calculations of the reduction of the transport problem to the canonical form of the linear programming problem. You can also find a pseudocode of methods for finding the extreme point and the method of potentials.
 
-# Author 
+# Authors 
 
 Poltavtsev Evgeniy
 
