@@ -1,4 +1,4 @@
-# Transport-problem (Optimization course project MIPT 2020)
+# Transport problem (Optimization course project MIPT 2020)
 
 The project considers a common example of a linear programming problem - a transport problem. My task was to automate the process of solving the problem (the Monge — Kantorovich formulation) by the method of potentials using python tools and compare them with the results of the simplex method (scipy.optimize.linprog).
 
