@@ -18,6 +18,8 @@ Poltavtsev Evgeniy
 
 Merkulov Daniil
 
+> I will be glad to have a star if it was useful :wink:
+
 # Enviroment
 
 Jupyter notebook
